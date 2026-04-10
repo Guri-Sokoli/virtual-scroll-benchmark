@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"
-  publish = "dist/benchmark-app"
+  publish = "dist/benchmark-app/browser"
 
 [build.environment]
   ANGULAR_PROJECT = "benchmark-app"
