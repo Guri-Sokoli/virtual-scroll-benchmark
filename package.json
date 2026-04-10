@@ -6,7 +6,7 @@
     "start": "ng serve benchmark-app",
     "start:benchmark": "ng serve benchmark-app --port 4200",
     "start:benchmark:stable": "ng serve benchmark-app --port 4200 --no-hmr --live-reload=false",
-    "build": "ng build optimized-virtual-scroll --configuration=production",
+    "build": "npm run build:lib && ng build benchmark-app --configuration=production",
     "build:app": "ng build benchmark-app",
     "build:lib": "ng build optimized-virtual-scroll",
     "build:all": "npm run build:lib && npm run build:app",
