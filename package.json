@@ -3,13 +3,27 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve benchmark-app",
+    "start:benchmark": "ng serve benchmark-app --port 4200",
+    "start:benchmark:stable": "ng serve benchmark-app --port 4200 --no-hmr --live-reload=false",
     "build": "ng build",
-    "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "build:app": "ng build benchmark-app",
+    "build:lib": "ng build optimized-virtual-scroll",
+    "build:all": "npm run build:lib && npm run build:app",
+    "test": "ng test",
+    "benchmark": "npx playwright test tools/benchmark/tests/virtual-scroll.spec.ts",
+    "benchmark:headed": "npx playwright test tools/benchmark/tests/virtual-scroll.spec.ts --headed",
+    "benchmark:install": "npx playwright install chromium",
+    "benchmark:quick": "cross-env BENCH_WARMUP=1 BENCH_ITERATIONS=2 BENCH_SIZES=10000,50000 BENCH_SCENARIOS=continuous,jump-to-index npx playwright test tools/benchmark/tests/virtual-scroll.spec.ts",
+    "benchmark:standard": "cross-env BENCH_WARMUP=2 BENCH_ITERATIONS=5 BENCH_SIZES=10000,50000,100000 npx playwright test tools/benchmark/tests/virtual-scroll.spec.ts",
+    "benchmark:full": "cross-env BENCH_WARMUP=5 BENCH_ITERATIONS=30 BENCH_SIZES=10000,50000,100000 npx playwright test tools/benchmark/tests/virtual-scroll.spec.ts",
+    "benchmark:render-time": "npx playwright test tools/benchmark/tests/render-time.spec.ts",
+    "benchmark:frame-timing": "npx playwright test tools/benchmark/tests/frame-timing.spec.ts",
+    "analyze": "python tools/analysis/analyze_results.py"
   },
   "private": true,
   "dependencies": {
+    "@angular/cdk": "^19.2.19",
     "@angular/common": "^19.2.0",
     "@angular/compiler": "^19.2.0",
     "@angular/core": "^19.2.0",
@@ -22,15 +36,19 @@
     "zone.js": "~0.15.0"
   },
   "devDependencies": {
+    "@angular-devkit/build-angular": "^19.2.20",
     "@angular/cli": "^19.2.20",
     "@angular/compiler-cli": "^19.2.0",
+    "@playwright/test": "^1.58.2",
     "@types/jasmine": "~5.1.0",
+    "cross-env": "^10.1.0",
     "jasmine-core": "~5.6.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
+    "ng-packagr": "^19.2.0",
     "typescript": "~5.7.2"
   }
 }

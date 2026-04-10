@@ -1,0 +1,17 @@
+mode,scenario,size,iteration,fps,droppedFramesEstimate,renderMs,memoryStartMb,memoryEndMb,memoryDeltaMb
+cdk,continuous,10000,1,60.14,0,133,12.78,12.78,0
+cdk,continuous,10000,2,59.95,0.25,119,12.78,12.78,0
+cdk,jump-to-index,10000,1,60.2,0,105,12.78,12.78,0
+cdk,jump-to-index,10000,2,60.16,0,119,12.78,12.78,0
+cdk,continuous,50000,1,59.92,0.34,132,12.78,12.78,0
+cdk,continuous,50000,2,60.13,0,117,12.78,12.78,0
+cdk,jump-to-index,50000,1,59.86,0.61,127,12.78,12.78,0
+cdk,jump-to-index,50000,2,60.19,0,121,12.78,12.78,0
+optimized,continuous,10000,1,60.06,0,111,12.78,12.78,0
+optimized,continuous,10000,2,60.07,0,114,12.78,12.78,0
+optimized,jump-to-index,10000,1,59.78,0.98,107,12.78,12.78,0
+optimized,jump-to-index,10000,2,60.05,0,95,12.78,12.78,0
+optimized,continuous,50000,1,60.01,0,109,12.78,12.78,0
+optimized,continuous,50000,2,59.87,0.56,129,12.78,12.78,0
+optimized,jump-to-index,50000,1,60.21,0,108,12.78,12.78,0
+optimized,jump-to-index,50000,2,59.95,0.23,137,12.78,12.78,0

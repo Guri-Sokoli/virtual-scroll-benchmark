@@ -1,0 +1,505 @@
+{
+  "generatedAt": "2026-03-16T09:18:07.397Z",
+  "samples": [
+    {
+      "mode": "cdk",
+      "size": 10000,
+      "iteration": 1,
+      "viewportAppearMs": 184.6,
+      "firstRowAppearMs": 184.6,
+      "domInteractiveMs": 12,
+      "domContentLoadedMs": 195.3,
+      "loadEventEndMs": 214.5
+    },
+    {
+      "mode": "cdk",
+      "size": 10000,
+      "iteration": 2,
+      "viewportAppearMs": 141.7,
+      "firstRowAppearMs": 141.7,
+      "domInteractiveMs": 8,
+      "domContentLoadedMs": 148.6,
+      "loadEventEndMs": 173.6
+    },
+    {
+      "mode": "cdk",
+      "size": 10000,
+      "iteration": 3,
+      "viewportAppearMs": 105.7,
+      "firstRowAppearMs": 105.7,
+      "domInteractiveMs": 9.8,
+      "domContentLoadedMs": 114.3,
+      "loadEventEndMs": 147.7
+    },
+    {
+      "mode": "cdk",
+      "size": 10000,
+      "iteration": 4,
+      "viewportAppearMs": 113.7,
+      "firstRowAppearMs": 113.7,
+      "domInteractiveMs": 8.8,
+      "domContentLoadedMs": 121.3,
+      "loadEventEndMs": 141.2
+    },
+    {
+      "mode": "cdk",
+      "size": 10000,
+      "iteration": 5,
+      "viewportAppearMs": 103.6,
+      "firstRowAppearMs": 103.6,
+      "domInteractiveMs": 8.5,
+      "domContentLoadedMs": 110.9,
+      "loadEventEndMs": 129.8
+    },
+    {
+      "mode": "cdk",
+      "size": 50000,
+      "iteration": 1,
+      "viewportAppearMs": 115.3,
+      "firstRowAppearMs": 115.3,
+      "domInteractiveMs": 8.4,
+      "domContentLoadedMs": 122.5,
+      "loadEventEndMs": 141
+    },
+    {
+      "mode": "cdk",
+      "size": 50000,
+      "iteration": 2,
+      "viewportAppearMs": 119,
+      "firstRowAppearMs": 119,
+      "domInteractiveMs": 9.4,
+      "domContentLoadedMs": 127.1,
+      "loadEventEndMs": 149.9
+    },
+    {
+      "mode": "cdk",
+      "size": 50000,
+      "iteration": 3,
+      "viewportAppearMs": 141.1,
+      "firstRowAppearMs": 141.1,
+      "domInteractiveMs": 9,
+      "domContentLoadedMs": 148.8,
+      "loadEventEndMs": 167.7
+    },
+    {
+      "mode": "cdk",
+      "size": 50000,
+      "iteration": 4,
+      "viewportAppearMs": 114.2,
+      "firstRowAppearMs": 114.2,
+      "domInteractiveMs": 9.9,
+      "domContentLoadedMs": 123,
+      "loadEventEndMs": 141.7
+    },
+    {
+      "mode": "cdk",
+      "size": 50000,
+      "iteration": 5,
+      "viewportAppearMs": 116.9,
+      "firstRowAppearMs": 116.9,
+      "domInteractiveMs": 10.3,
+      "domContentLoadedMs": 126.1,
+      "loadEventEndMs": 153.5
+    },
+    {
+      "mode": "cdk",
+      "size": 100000,
+      "iteration": 1,
+      "viewportAppearMs": 115.8,
+      "firstRowAppearMs": 115.8,
+      "domInteractiveMs": 9,
+      "domContentLoadedMs": 123.6,
+      "loadEventEndMs": 142.6
+    },
+    {
+      "mode": "cdk",
+      "size": 100000,
+      "iteration": 2,
+      "viewportAppearMs": 117.1,
+      "firstRowAppearMs": 117.1,
+      "domInteractiveMs": 7.5,
+      "domContentLoadedMs": 123.4,
+      "loadEventEndMs": 149.2
+    },
+    {
+      "mode": "cdk",
+      "size": 100000,
+      "iteration": 3,
+      "viewportAppearMs": 120.3,
+      "firstRowAppearMs": 120.3,
+      "domInteractiveMs": 7.9,
+      "domContentLoadedMs": 127.2,
+      "loadEventEndMs": 147.5
+    },
+    {
+      "mode": "cdk",
+      "size": 100000,
+      "iteration": 4,
+      "viewportAppearMs": 121.5,
+      "firstRowAppearMs": 121.5,
+      "domInteractiveMs": 9.1,
+      "domContentLoadedMs": 128.5,
+      "loadEventEndMs": 148.2
+    },
+    {
+      "mode": "cdk",
+      "size": 100000,
+      "iteration": 5,
+      "viewportAppearMs": 116.1,
+      "firstRowAppearMs": 116.1,
+      "domInteractiveMs": 9.1,
+      "domContentLoadedMs": 124,
+      "loadEventEndMs": 143.9
+    },
+    {
+      "mode": "cdk",
+      "size": 250000,
+      "iteration": 1,
+      "viewportAppearMs": 171,
+      "firstRowAppearMs": 171,
+      "domInteractiveMs": 10.2,
+      "domContentLoadedMs": 180,
+      "loadEventEndMs": 201.7
+    },
+    {
+      "mode": "cdk",
+      "size": 250000,
+      "iteration": 2,
+      "viewportAppearMs": 133.3,
+      "firstRowAppearMs": 133.3,
+      "domInteractiveMs": 9.4,
+      "domContentLoadedMs": 141.3,
+      "loadEventEndMs": 160.7
+    },
+    {
+      "mode": "cdk",
+      "size": 250000,
+      "iteration": 3,
+      "viewportAppearMs": 139.5,
+      "firstRowAppearMs": 139.5,
+      "domInteractiveMs": 8.9,
+      "domContentLoadedMs": 147.2,
+      "loadEventEndMs": 168
+    },
+    {
+      "mode": "cdk",
+      "size": 250000,
+      "iteration": 4,
+      "viewportAppearMs": 131.3,
+      "firstRowAppearMs": 131.3,
+      "domInteractiveMs": 9.1,
+      "domContentLoadedMs": 139.2,
+      "loadEventEndMs": 158.2
+    },
+    {
+      "mode": "cdk",
+      "size": 250000,
+      "iteration": 5,
+      "viewportAppearMs": 131.9,
+      "firstRowAppearMs": 131.9,
+      "domInteractiveMs": 8.5,
+      "domContentLoadedMs": 139.4,
+      "loadEventEndMs": 158.8
+    },
+    {
+      "mode": "cdk",
+      "size": 500000,
+      "iteration": 1,
+      "viewportAppearMs": 147.8,
+      "firstRowAppearMs": 147.9,
+      "domInteractiveMs": 12.7,
+      "domContentLoadedMs": 159.5,
+      "loadEventEndMs": 178.2
+    },
+    {
+      "mode": "cdk",
+      "size": 500000,
+      "iteration": 2,
+      "viewportAppearMs": 147.9,
+      "firstRowAppearMs": 147.9,
+      "domInteractiveMs": 9.5,
+      "domContentLoadedMs": 156,
+      "loadEventEndMs": 175.6
+    },
+    {
+      "mode": "cdk",
+      "size": 500000,
+      "iteration": 3,
+      "viewportAppearMs": 145.2,
+      "firstRowAppearMs": 145.3,
+      "domInteractiveMs": 10,
+      "domContentLoadedMs": 154,
+      "loadEventEndMs": 172.5
+    },
+    {
+      "mode": "cdk",
+      "size": 500000,
+      "iteration": 4,
+      "viewportAppearMs": 155.1,
+      "firstRowAppearMs": 155.1,
+      "domInteractiveMs": 9,
+      "domContentLoadedMs": 162.8,
+      "loadEventEndMs": 182.1
+    },
+    {
+      "mode": "cdk",
+      "size": 500000,
+      "iteration": 5,
+      "viewportAppearMs": 150.3,
+      "firstRowAppearMs": 150.3,
+      "domInteractiveMs": 8.9,
+      "domContentLoadedMs": 157.8,
+      "loadEventEndMs": 177.8
+    },
+    {
+      "mode": "optimized",
+      "size": 10000,
+      "iteration": 1,
+      "viewportAppearMs": 104.4,
+      "firstRowAppearMs": 104.4,
+      "domInteractiveMs": 8,
+      "domContentLoadedMs": 111.1,
+      "loadEventEndMs": 131.1
+    },
+    {
+      "mode": "optimized",
+      "size": 10000,
+      "iteration": 2,
+      "viewportAppearMs": 107,
+      "firstRowAppearMs": 107,
+      "domInteractiveMs": 7.9,
+      "domContentLoadedMs": 113.8,
+      "loadEventEndMs": 132
+    },
+    {
+      "mode": "optimized",
+      "size": 10000,
+      "iteration": 3,
+      "viewportAppearMs": 97.8,
+      "firstRowAppearMs": 97.9,
+      "domInteractiveMs": 7.8,
+      "domContentLoadedMs": 104.8,
+      "loadEventEndMs": 128.7
+    },
+    {
+      "mode": "optimized",
+      "size": 10000,
+      "iteration": 4,
+      "viewportAppearMs": 112.1,
+      "firstRowAppearMs": 112.2,
+      "domInteractiveMs": 13,
+      "domContentLoadedMs": 124.2,
+      "loadEventEndMs": 144.1
+    },
+    {
+      "mode": "optimized",
+      "size": 10000,
+      "iteration": 5,
+      "viewportAppearMs": 129.2,
+      "firstRowAppearMs": 129.2,
+      "domInteractiveMs": 8.6,
+      "domContentLoadedMs": 136.6,
+      "loadEventEndMs": 156.1
+    },
+    {
+      "mode": "optimized",
+      "size": 50000,
+      "iteration": 1,
+      "viewportAppearMs": 111,
+      "firstRowAppearMs": 111,
+      "domInteractiveMs": 9,
+      "domContentLoadedMs": 118.9,
+      "loadEventEndMs": 137.9
+    },
+    {
+      "mode": "optimized",
+      "size": 50000,
+      "iteration": 2,
+      "viewportAppearMs": 112.2,
+      "firstRowAppearMs": 112.2,
+      "domInteractiveMs": 11.2,
+      "domContentLoadedMs": 122.3,
+      "loadEventEndMs": 141.3
+    },
+    {
+      "mode": "optimized",
+      "size": 50000,
+      "iteration": 3,
+      "viewportAppearMs": 119.8,
+      "firstRowAppearMs": 119.8,
+      "domInteractiveMs": 9.5,
+      "domContentLoadedMs": 128.1,
+      "loadEventEndMs": 148.1
+    },
+    {
+      "mode": "optimized",
+      "size": 50000,
+      "iteration": 4,
+      "viewportAppearMs": 112.1,
+      "firstRowAppearMs": 112.1,
+      "domInteractiveMs": 8.2,
+      "domContentLoadedMs": 119.3,
+      "loadEventEndMs": 139.5
+    },
+    {
+      "mode": "optimized",
+      "size": 50000,
+      "iteration": 5,
+      "viewportAppearMs": 136.8,
+      "firstRowAppearMs": 136.8,
+      "domInteractiveMs": 9.5,
+      "domContentLoadedMs": 145.1,
+      "loadEventEndMs": 164.4
+    },
+    {
+      "mode": "optimized",
+      "size": 100000,
+      "iteration": 1,
+      "viewportAppearMs": 116.2,
+      "firstRowAppearMs": 116.2,
+      "domInteractiveMs": 7.8,
+      "domContentLoadedMs": 122.9,
+      "loadEventEndMs": 141.9
+    },
+    {
+      "mode": "optimized",
+      "size": 100000,
+      "iteration": 2,
+      "viewportAppearMs": 115.7,
+      "firstRowAppearMs": 115.7,
+      "domInteractiveMs": 9,
+      "domContentLoadedMs": 123.6,
+      "loadEventEndMs": 141.9
+    },
+    {
+      "mode": "optimized",
+      "size": 100000,
+      "iteration": 3,
+      "viewportAppearMs": 114.1,
+      "firstRowAppearMs": 114.1,
+      "domInteractiveMs": 8.4,
+      "domContentLoadedMs": 121.3,
+      "loadEventEndMs": 140.8
+    },
+    {
+      "mode": "optimized",
+      "size": 100000,
+      "iteration": 4,
+      "viewportAppearMs": 117.6,
+      "firstRowAppearMs": 117.7,
+      "domInteractiveMs": 8.7,
+      "domContentLoadedMs": 125.4,
+      "loadEventEndMs": 144.9
+    },
+    {
+      "mode": "optimized",
+      "size": 100000,
+      "iteration": 5,
+      "viewportAppearMs": 130.5,
+      "firstRowAppearMs": 130.5,
+      "domInteractiveMs": 9.2,
+      "domContentLoadedMs": 138.5,
+      "loadEventEndMs": 157.6
+    },
+    {
+      "mode": "optimized",
+      "size": 250000,
+      "iteration": 1,
+      "viewportAppearMs": 125.3,
+      "firstRowAppearMs": 125.4,
+      "domInteractiveMs": 11.2,
+      "domContentLoadedMs": 134.9,
+      "loadEventEndMs": 159
+    },
+    {
+      "mode": "optimized",
+      "size": 250000,
+      "iteration": 2,
+      "viewportAppearMs": 132.7,
+      "firstRowAppearMs": 132.7,
+      "domInteractiveMs": 8.2,
+      "domContentLoadedMs": 140,
+      "loadEventEndMs": 157.8
+    },
+    {
+      "mode": "optimized",
+      "size": 250000,
+      "iteration": 3,
+      "viewportAppearMs": 117.1,
+      "firstRowAppearMs": 117.1,
+      "domInteractiveMs": 10.1,
+      "domContentLoadedMs": 126.1,
+      "loadEventEndMs": 154.3
+    },
+    {
+      "mode": "optimized",
+      "size": 250000,
+      "iteration": 4,
+      "viewportAppearMs": 135.6,
+      "firstRowAppearMs": 135.6,
+      "domInteractiveMs": 8.9,
+      "domContentLoadedMs": 143.3,
+      "loadEventEndMs": 163.3
+    },
+    {
+      "mode": "optimized",
+      "size": 250000,
+      "iteration": 5,
+      "viewportAppearMs": 129.7,
+      "firstRowAppearMs": 129.7,
+      "domInteractiveMs": 10,
+      "domContentLoadedMs": 138.8,
+      "loadEventEndMs": 158.6
+    },
+    {
+      "mode": "optimized",
+      "size": 500000,
+      "iteration": 1,
+      "viewportAppearMs": 141.3,
+      "firstRowAppearMs": 141.3,
+      "domInteractiveMs": 7.2,
+      "domContentLoadedMs": 147.6,
+      "loadEventEndMs": 167.3
+    },
+    {
+      "mode": "optimized",
+      "size": 500000,
+      "iteration": 2,
+      "viewportAppearMs": 166.1,
+      "firstRowAppearMs": 166.1,
+      "domInteractiveMs": 10.3,
+      "domContentLoadedMs": 175.3,
+      "loadEventEndMs": 194.2
+    },
+    {
+      "mode": "optimized",
+      "size": 500000,
+      "iteration": 3,
+      "viewportAppearMs": 146.7,
+      "firstRowAppearMs": 146.7,
+      "domInteractiveMs": 10.2,
+      "domContentLoadedMs": 155.6,
+      "loadEventEndMs": 175
+    },
+    {
+      "mode": "optimized",
+      "size": 500000,
+      "iteration": 4,
+      "viewportAppearMs": 150.3,
+      "firstRowAppearMs": 150.3,
+      "domInteractiveMs": 11,
+      "domContentLoadedMs": 160,
+      "loadEventEndMs": 181.9
+    },
+    {
+      "mode": "optimized",
+      "size": 500000,
+      "iteration": 5,
+      "viewportAppearMs": 148.7,
+      "firstRowAppearMs": 148.7,
+      "domInteractiveMs": 9.1,
+      "domContentLoadedMs": 156.6,
+      "loadEventEndMs": 176.9
+    }
+  ]
+}
